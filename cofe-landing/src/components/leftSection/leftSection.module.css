@@ -1,0 +1,12 @@
+.leftSectionDiv {
+    background-color: transparent;
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 30px;
+}
+
+@media (max-width: 1000px) {
+  .leftSectionDiv{
+    width: 100%;
+  }
+}

@@ -1,0 +1,14 @@
+.firstCardText {
+    text-align: center;
+}
+
+.firstCardText p:first-child {
+    font-weight: bold;
+    font-size: 20px;
+    color:#12463A;
+}
+
+.firstCardText p:nth-child(2){
+    color: #12463A;
+    font-size: 15px;
+}

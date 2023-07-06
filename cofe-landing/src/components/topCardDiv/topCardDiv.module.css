@@ -1,0 +1,33 @@
+.topCardDiv {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.topCardsProduct {
+    background-color: #12463A;
+    width: 32%;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.icon {
+    color: #fff;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.textCard {
+    text-align: center;
+    color:  #fff;
+    font-size: 10px;
+    margin-top: 20px;
+}
+
+.textCard p:first-child {
+    font-size: 15px;
+}
