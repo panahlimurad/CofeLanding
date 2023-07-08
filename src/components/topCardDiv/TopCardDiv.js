@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../topCardDiv/topCardDiv.module.css"
+import style from "./topCardDiv.module.css"
 import { FiCoffee } from "react-icons/fi";
 import PropTypes from "prop-types";
 

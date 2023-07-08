@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../firstCardText/firstCardText.module.css"
+import style from "./firstCardText.module.css"
 
 export class FirstCardText extends React.Component{
     render() {

@@ -1,6 +1,6 @@
 
 import React from "react";
-import style from "../productImgDiv/productImgDiv.module.css";
+import style from "./productImgDiv.module.css";
 import PropTypes from "prop-types";
 
 

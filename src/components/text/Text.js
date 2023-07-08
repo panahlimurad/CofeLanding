@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../text/text.module.css";
+import style from "./text.module.css";
 
 export class Text extends React.Component{
     render() {

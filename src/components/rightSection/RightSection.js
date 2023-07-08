@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../rightSection/rightSection.module.css";
+import style from "./rightSection.module.css";
 import { FirstCardText } from "../firstCardText/FirstCardText";
 import { TopCardDiv } from "../topCardDiv/TopCardDiv";
 import { ProductImgDiv } from "../productImgDiv/ProductImgDiv";
