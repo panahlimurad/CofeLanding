@@ -12,7 +12,7 @@ export class RightSection extends React.Component {
       <div className={style.rightSection}>
         <FirstCardText />
         <TopCardDiv  />
-        <ProductImgDiv textButton="Order"/>
+        <ProductImgDiv textButton="Button" />
       </div>
     )
   }

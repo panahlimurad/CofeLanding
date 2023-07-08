@@ -7,8 +7,12 @@ import PropTypes from "prop-types";
 
 export class TopCardDiv extends React.Component {
   
+  static defaultProps = {
+  component: "p",
+  }
   
   render() {
+
     const data = [
       {
         title1: "Supreme Beans",
