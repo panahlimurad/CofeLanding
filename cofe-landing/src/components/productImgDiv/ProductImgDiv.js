@@ -83,9 +83,9 @@ constructor() {
 
 
 ProductImgDiv.propTypes = {
-  textImage: PropTypes.string.isRequired,
-  id: PropTypes.number.isRequired,
-  linkImage: PropTypes.string.isRequired,
+  textImage: PropTypes.string,
+  id: PropTypes.number,
+  linkImage: PropTypes.string
 };
 
 

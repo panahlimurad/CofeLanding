@@ -6,10 +6,10 @@ import { RightSection } from "./components/rightSection/RightSection";
 export class App extends React.Component {
   render() {
     return (
-      <body>
+      <main>
         <LeftSection />
         <RightSection />
-      </body>
+      </main>
     );
   }
 }
